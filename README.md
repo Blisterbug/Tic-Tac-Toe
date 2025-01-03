@@ -69,12 +69,4 @@ Contributions are welcome! Follow these steps to contribute:
     ```bash
     git push origin feature-name
     ```
-5. Open a Pull Request.
-
-## License
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-Thank you for checking out this project! Feel free to reach out with any questions, feedback, or suggestions.
 
