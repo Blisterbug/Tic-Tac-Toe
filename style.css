@@ -1,3 +1,7 @@
+body {
+    font-family: 'Inter', sans-serif;
+}
+
 .tic-tac-toe {
     display: grid;
     justify-content: center;
@@ -71,3 +75,4 @@ turn-display {
     text-decoration: line-through;
     /* Strike-through effect */
 }
+
