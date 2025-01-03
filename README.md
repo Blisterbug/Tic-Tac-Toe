@@ -32,7 +32,7 @@ This is a web-based implementation of the classic Tic Tac Toe game. Unlike the t
     ```
 2. Navigate to the project directory:
     ```bash
-    cd tic-tac-toe-nxn
+    cd tic-tac-toe
     ```
 3. Open the `index.html` file in your preferred browser.
     ```
